@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Defontana", "Defontana\Defontana.csproj", "{7001A56D-80EC-4174-8230-DCA85CDCC46F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7001A56D-80EC-4174-8230-DCA85CDCC46F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7001A56D-80EC-4174-8230-DCA85CDCC46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7001A56D-80EC-4174-8230-DCA85CDCC46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7001A56D-80EC-4174-8230-DCA85CDCC46F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79D8E7A5-A54B-40E3-A8B8-058845256EAF}
+	EndGlobalSection
+EndGlobal
